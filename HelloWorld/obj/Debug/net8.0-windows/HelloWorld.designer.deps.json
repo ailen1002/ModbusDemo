@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NModbus/3.0.81": {
+        "runtime": {
+          "lib/net6.0/NModbus.dll": {
+            "assemblyVersion": "3.0.81.0",
+            "fileVersion": "3.0.81.0"
+          }
+        }
+      },
+      "SunnyUI/3.6.3": {
+        "dependencies": {
+          "SunnyUI.Common": "3.6.3"
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/SunnyUI.dll": {
+            "assemblyVersion": "3.6.3.0",
+            "fileVersion": "3.6.3.0"
+          }
+        }
+      },
+      "SunnyUI.Common/3.6.3": {
+        "runtime": {
+          "lib/net8.0/SunnyUI.Common.dll": {
+            "assemblyVersion": "3.6.3.0",
+            "fileVersion": "3.6.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NModbus/3.0.81": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EzKEp7CHD8ErBL36iMts+6IrZZ9FEqllaD7Y5XzhoRjlxt5yXRughQ1bxPs99QFYFkW5xfkANB0Qs1gAmYGP8Q==",
+      "path": "nmodbus/3.0.81",
+      "hashPath": "nmodbus.3.0.81.nupkg.sha512"
+    },
+    "SunnyUI/3.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1uJ4shH6kfDc9rHQCbyEyONTu+fSMmlbM5+/aCWC5q5QfiYnSViSGf/S/mcABgDcjU/MNvBzsAJ9rR3gDMuZOw==",
+      "path": "sunnyui/3.6.3",
+      "hashPath": "sunnyui.3.6.3.nupkg.sha512"
+    },
+    "SunnyUI.Common/3.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rxnci0kjumrGh2oCEQQt9OqdN/9OOhSfewU+0B6qZNaYl8DGuBKqIN0ntXlPruBlm+LXPQ+1AW/wPXBceitKnQ==",
+      "path": "sunnyui.common/3.6.3",
+      "hashPath": "sunnyui.common.3.6.3.nupkg.sha512"
+    }
+  }
+}

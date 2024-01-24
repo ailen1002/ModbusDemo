@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "8+mVhvTrqwqZmnaJ7xTYtFIYlQkj3JRb/CaJHspIBPXQpLZiDp1vPcjJykHEX0hewqerMKEn8dPd1b3Gg9fMRg==",
+  "success": true,
+  "projectFilePath": "D:\\works\\MFCProject\\Modbusdemo\\HelloWorld\\ModbusDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wangs\\.nuget\\packages\\nmodbus\\3.0.81\\nmodbus.3.0.81.nupkg.sha512",
+    "C:\\Users\\wangs\\.nuget\\packages\\nmodbus.serial\\3.0.81\\nmodbus.serial.3.0.81.nupkg.sha512",
+    "C:\\Users\\wangs\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\wangs\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\wangs\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\wangs\\.nuget\\packages\\runtime.native.system.io.ports\\8.0.0\\runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\wangs\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\wangs\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\wangs\\.nuget\\packages\\sunnyui\\3.6.3\\sunnyui.3.6.3.nupkg.sha512",
+    "C:\\Users\\wangs\\.nuget\\packages\\sunnyui.common\\3.6.3\\sunnyui.common.3.6.3.nupkg.sha512",
+    "C:\\Users\\wangs\\.nuget\\packages\\system.io.ports\\8.0.0\\system.io.ports.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
